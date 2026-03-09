@@ -1,0 +1,7 @@
+,Month,Sales,Orders,Category,Region
+0,Jan,12000,120,Electronics,North
+1,Feb,15000,150,Clothing,South
+2,Mar,18000,180,Electronics,East
+3,Apr,16000,160,Home,West
+4,May,20000,200,Clothing,North
+5,Jun,22000,220,Electronics,South
