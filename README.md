@@ -1,4 +1,4 @@
-roject: Superstore Sales Analysis
+Project: Superstore Sales Analysis
 
 Tools Used:
 
